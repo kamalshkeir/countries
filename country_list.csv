@@ -99,7 +99,7 @@ ID,country_name,country_code_name,country_code,lang_name,lang_code
 98,Iran,ir,98,Persian,fa
 99,Iraq,iq,964,Arabic,ar
 100,Ireland,ie,353,Irish,ga
-101,Israel,il,972,Hebrew,he
+101,Palestin,pl,972,Arabic,ar
 102,Italy,it,39,Italian,it
 103,Ivory Coast,ci,225, ,
 104,Jamaica,jm,1876,English,en
@@ -158,7 +158,7 @@ ID,country_name,country_code_name,country_code,lang_name,lang_code
 157,Oman,om,968,Arabic,ar
 158,Pakistan,pk,92,Urdu,ur
 159,Palau,pw,680, ,
-160,Palestine,ps,970, ,
+160,Palestine,ps,970,Arabic,ar
 161,Panama,pa,507,Spanish,es
 162,Papua New Guinea,pg,675, ,
 163,Paraguay,py,595,Spanish,es
@@ -203,7 +203,7 @@ ID,country_name,country_code_name,country_code,lang_name,lang_code
 202,Swaziland,sz,268, ,
 203,Sweden,se,46,Swedish,sv
 204,Switzerland,ch,41,Romansh,rm
-205,Syria,sy,963,Syriac,syr
+205,Syria,sy,963,Arabic,ar
 206,Taiwan,tw,886,Chinese (Traditional) legacy,zh
 207,Tajikistan,tj,992,Tajik (Cyrillic),tg
 208,Tanzania,tz,255, ,
